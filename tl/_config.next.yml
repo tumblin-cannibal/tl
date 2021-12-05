@@ -50,11 +50,11 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  #small: https://watatomo.github.io/favicon-16x16.png
-  #medium: https://watatomo.github.io/favicon-32x32.png
-  #apple_touch_icon: https://watatomo.github.io/apple-touch-icon.png
-  #safari_pinned_tab: https://watatomo.github.io/safari-pinned-tab.svg
-  #android_manifest: https://watatomo.github.io/site.webmanifest
+  #small: https://tumblin-cannibal.github.io/favicon-16x16.png
+  #medium: https://tumblin-cannibal.github.io/favicon-32x32.png
+  #apple_touch_icon: https://tumblin-cannibal.github.io/apple-touch-icon.png
+  #safari_pinned_tab: https://tumblin-cannibal.github.io/safari-pinned-tab.svg
+  #android_manifest: https://tumblin-cannibal.github.io/site.webmanifest
 
 # Custom Logo (Warning: Does not support scheme Mist)
 custom_logo: #/uploads/custom-logo.jpg
@@ -142,16 +142,17 @@ site_state: false
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  #GitHub: https://github.com/username || fab fa-github
+  #GitHub: https://github.com/tumblin-cannibal || fab fa-github
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  #Twitter: https://twitter.com/username || fab fa-twitter
+  Twitter: https://twitter.com/tumblincannibal || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/channel/hash || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
+  Tumblr: https://tumblincannibal.tumblr.com/ || fab fa-tumblr
 
 social_icons:
   enable: true
@@ -204,7 +205,7 @@ footer:
     color: ""
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright: Ren (watatomo)
+  copyright: tumblin-cannibal
 
   # Powered by Hexo & NexT
   powered: false
@@ -671,7 +672,7 @@ add_this_id:
 # Google Analytics
 # See: https://analytics.google.com
 google_analytics:
-  tracking_id: G-VK1H5BZV59
+  tracking_id:
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false

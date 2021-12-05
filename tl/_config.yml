@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:
+title: ''
 subtitle: ''
 description: ''
 keywords:
-author:
+author: ''
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://watatomo.github.io/tl
-root: /tl/
+url: https://tumblin-cannibal.github.io
+root: /
 permalink: post/:title/
 permalink_defaults:
 pretty_urls:
@@ -113,8 +113,8 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/watatomo/tl
-  branch: master
+  repo: https://github.com/tumblin-cannibal/tumblin-cannibal.github.io
+  branch: gh-pages
   message: "{{ now('MM/DD/YYYY HH:mm:ss') }}"
 
 marked:
