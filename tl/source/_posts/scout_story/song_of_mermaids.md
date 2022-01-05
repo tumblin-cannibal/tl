@@ -2,11 +2,11 @@
 title: "Song of Mermaids"
 date: 2021-12-4 15:00:00
 categories:
-- [Enstars, ADDCATEGORY YOU WANT]
+- [Enstars, scoutstory]
 tags:
 - Story Index
 - Scout Story
-description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
+description: "Every full moon night, from the calm quiet sea comes a desolate sob. It was said the cries would bring misfortune so the people living near the sea lived in fear. But one day, a passing noble who heard this tale vowed to make the little mermaid smile again."
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -14,14 +14,14 @@ description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
         <div class="preview-box">
         <div class="title-area">
             <div class="title-area__title">Song of Mermaids</div>
-            <div class="title-area__subtitle">人魚之歌</div>
+            <div class="title-area__subtitle">人与之歌</div>
             <div class="title-area__start">
-                <a href="LINKHERE">Start Reading</a>
+                <a href="https://tumblin-cannibal.github.io/post/song%20of%20mermaids/1">Start Reading</a>
             </div>
         </div>
         <div class="info-area">
             <div class="synopsis">
-                ADDSYNOPSISHERE
+                Every full moon night, from the calm quiet sea comes a desolate sob. It was said the cries would bring misfortune so the residents living near the sea lived in fear. But one day, a passing noble who heard this tale vowed to make the little mermaid smile again.
             </div>
             <div class="info">
                 <div class="info-item season">
@@ -65,7 +65,7 @@ description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
                         Translation
                     </div>
                     <div class="value">
-                      ADDTRANSLATOR
+                    uuru
                     </div>
                 </div>
                 <div class="info-item pr">
@@ -73,7 +73,7 @@ description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
                         Proofreading
                     </div>
                     <div class="value">
-                        ADDPROOFREADING
+                        Peach and Crow
                     </div>
                     </div>
                 </div>
@@ -105,12 +105,12 @@ description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
                 <div class="title-area__title">Song of Mermaids</div>
                 <div class="title-area__subtitle">人魚之歌</div>
                 <div class="title-area__start">
-                    <a href="LINKHERE">Start Reading</a>
+                    <a href="https://tumblin-cannibal.github.io/post/song%20of%20mermaids/1">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    ADDSYNOPSISHERE
+                    Every full moon night, from the calm quiet sea comes a desolate sob. It was said the cries would bring misfortune so the people living near the sea lived in fear. But one day, a passing noble who heard this tale vowed to make the little mermaid smile again
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -154,7 +154,7 @@ description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
                             Translation
                         </div>
                         <div class="value">
-                          ADDTRANSLATOR
+                          uuru
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -162,7 +162,7 @@ description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
                             Proofreading
                         </div>
                         <div class="value">
-                            ADDPROOFREADING
+                            Peach and Crow
                         </div>
                     </div>
                 </div>
@@ -219,12 +219,12 @@ description: "ADD SYNOPSIS OR WHATEVER YOU WANT PPL TO SEE IN PREVIEW"
                 <div class="chapters">
                     <ul>
                         <li>
-                            <span>CHAPTERNAME</span>
-                            <a href="LINK" id="none">1</a>
-                            <a href="LINK" id="none">2</a>
-                            <a href="LINK" id="none">3</a>
-                            <a href="LINK" id="none">4</a>
-                            <a href="LINK" id="none">5</a>
+                            <span>Song of Mermaids</span>
+                            <a href="https://tumblin-cannibal.github.io/post/scout_story/song%20of%20mermaids/1/" id="none">1</a>
+                            <a href="https://tumblin-cannibal.github.io/post/scout_story/song%20of%20mermaids/2/" id="none">2</a>
+                            <a href="https://tumblin-cannibal.github.io/post/scout_story/song%20of%20mermaids/3/" id="none">3</a>
+                            <a href="https://tumblin-cannibal.github.io/post/scout_story/song%20of%20mermaids/4/" id="none">4</a>
+                            <a href="https://tumblin-cannibal.github.io/post/scout_story/song%20of%20mermaids/5/" id="none">5</a>
                         </li>                      
                     </ul>
                 </div>

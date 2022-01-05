@@ -86,7 +86,7 @@ menu:
   about: about || fa fa-user
   tags: tags || fa fa-tags
   categories: categories || fa fa-folder-open
-  #library: library || fas fa-book
+  library: library || fas fa-book
   archives: history || fa fa-history
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
